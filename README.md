@@ -1,7 +1,7 @@
 # phoenix_benchmark
 
-* Elixir: 1.1.1
-* phoenix: 1.1.0
+* Elixir 1.1.1
+* phoenix 1.1.0
 
 ```
 $ PORT=4001 MIX_ENV=prod mix phoenix.server
